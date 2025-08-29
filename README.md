@@ -22,7 +22,7 @@ This project demonstrates how to build a modern chat system with instant messagi
 - 🔐 Join chat with unique username  
 - 💬 Realtime messaging (1-to-1 & group)  
 - 👀 Typing indicators  
-- 🟢 Online/offline status  
 - 📱 Responsive design with Tailwind  
+- 🟢 Online/offline status  
 
 ---
