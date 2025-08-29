@@ -3,7 +3,9 @@
 A **realtime chat application** built with **Express, Socket.IO, React, and Tailwind CSS**.  
 This project demonstrates how to build a modern chat system with instant messaging, responsive UI, and WebSocket communication.  
 
+
 ---
+
 
 ## 🚀 Tech Stack  
 
